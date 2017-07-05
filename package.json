@@ -1,0 +1,22 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch"
+  },
+  "author": "TaeJae Han",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.9.1",
+    "p5": "^0.5.11"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "webpack": "^3.0.0"
+  }
+}
